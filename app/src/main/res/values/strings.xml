@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Hololive Schedule</string>
+    <string name="refresh_page">Refresh page</string>
 </resources>
